@@ -26,7 +26,7 @@
 //
 //foo();
 $name = "Laravel 精品课";
-$author = '学院君';
+$author = '学院君d';
 
 if (is_string($name)) {
     echo '"$name" 是字符串' . PHP_EOL;
